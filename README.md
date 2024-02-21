@@ -1,2 +1,1 @@
-# tic-tac-toe
-Just a simple tic-tac-toe game in Python
+A CLI based version of noughts and crosses.
